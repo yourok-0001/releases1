@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.112",
+    "versionInt": 112,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.112-release.apk",
+    "desc": "- Замена jackett по умолчанию\n- Изменения в интерфейсе\n- Мелкие исправления и баги\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.111",
     "versionInt": 111,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.111-release.apk",
