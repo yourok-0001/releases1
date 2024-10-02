@@ -1,0 +1,24 @@
+{
+  "version": "MatriX.134",
+  "links": {
+    "android-arm64": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-android-arm64",
+    "android-arm7": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-android-arm7",
+    "android-386": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-android-386",
+    "android-amd64": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-android-amd64",
+    "darwin-amd64": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-darwin-amd64",
+    "darwin-arm64": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-darwin-arm64",
+    "freebsd-amd64": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-freebsd-amd64",
+    "freebsd-arm7": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-freebsd-arm7",
+    "linux-386": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-linux-386",
+    "linux-amd64": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-linux-amd64",
+    "linux-arm5": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-linux-arm5",
+    "linux-arm64": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-linux-arm64",
+    "linux-arm7": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-linux-arm7",
+    "linux-mips": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-linux-mips",
+    "linux-mips64": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-linux-mips64",
+    "linux-mips64le": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-linux-mips64le",
+    "linux-mipsle": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-linux-mipsle",
+    "windows-386.exe": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-windows-386.exe",
+    "windows-amd64.exe": "https://github.com/YouROK/TorrServer/releases/download/MatriX.134/TorrServer-windows-amd64.exe"
+  }
+}
