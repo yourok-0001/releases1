@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.134",
+    "versionInt": 134,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.134-release.apk",
+    "desc": "-Исправления навигации в поиске\n-Некоторые улучшения в интерфейсе\n-Ускорена загрузка релизов с TMDB\n-Исправлены падения на устройствах без поддержки каналов Android TV\n-Другие исправления и новые баги\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.133",
     "versionInt": 133,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.133-release.apk",
