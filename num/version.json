@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.135",
+    "versionInt": 135,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.135-release.apk",
+    "desc": "-Все сломали как обычно\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.134",
     "versionInt": 134,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.134-release.apk",
