@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.137",
+    "versionInt": 137,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.137-release.apk",
+    "desc": "-Исправлены найденные баги\n-Улучшен интерфейс\n-Добавлена обработка InfoHash из Jackett\n-Обновлен VPN сервис и добавлено кеширование загрузки конфигурации\n-Улучшена работа поиска\n\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.136",
     "versionInt": 136,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.136-release.apk",
