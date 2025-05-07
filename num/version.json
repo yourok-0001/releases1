@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.138",
+    "versionInt": 138,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.138-release.apk",
+    "desc": "-Исправлен поиск с Jackett с пустыми категориями\n-Исправлены (надеюсь) ошибки подключения VPN\n-Добавлена статистика подключения Антизапрета\n-Улучшения интерфейса на Android 5.1\n-Исправления для Android 14+\n-Исправления в поиске сериалов на ThePirateBay\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.137",
     "versionInt": 137,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.137-release.apk",
