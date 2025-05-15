@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.141",
+    "versionInt": 141,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.141-release.apk",
+    "desc": "-Исправление работы на телевизорах sony и др\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.140",
     "versionInt": 140,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.140-release.apk",
