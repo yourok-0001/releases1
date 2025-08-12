@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.143",
+    "versionInt": 143,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.143-release.apk",
+    "desc": "-Чисто bugfixes\n-Отрублен quad9 с прокси\n-Что-то еще\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.142",
     "versionInt": 142,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.142-release.apk",
