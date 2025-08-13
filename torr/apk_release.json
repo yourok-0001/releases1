@@ -1,5 +1,11 @@
 [
   {
+    "version": "MatriX.136",
+    "versionInt": 136,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.136.Client/TorrServe_MatriX.136.Client-release.apk",
+    "desc": "- Небольшие косметические изменения\n- Поправлены некоторые баги\n\nСпасибо @tsynik"
+  },
+  {
     "version": "MatriX.135",
     "versionInt": 135,
     "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.135.Client/TorrServe_MatriX.135.Client-release.apk",
