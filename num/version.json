@@ -1,0 +1,602 @@
+[
+  {
+    "version": "1.0.149",
+    "versionInt": 149,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.149-release.apk",
+    "desc": "-Забыли багов добавить в предыдущий релиз\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.148",
+    "versionInt": 148,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.148-release.apk",
+    "desc": "-Попытка обойти блокировку постеров и др. данных из TMDB\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.147",
+    "versionInt": 147,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.147-release.apk",
+    "desc": "-Добавлен поиск ИИ, инструкция как добавить ключ\nhttps://gonote.ru/note/Poluchenie-kliucha-ot-Google-AI-10-24 \n-Добавлен прокси для постеров от Johnny\n\nСпасибо @tsynik @J0hnny94"
+  },
+  {
+    "version": "1.0.146",
+    "versionInt": 146,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.146-release.apk",
+    "desc": "-Исправления ошибок в коллекции\n-Баги убраны на 146%\n\nСпасибо @tsynik\n\nhttps://gonote.ru/note/description"
+  },
+  {
+    "version": "1.0.145",
+    "versionInt": 145,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.145-release.apk",
+    "desc": "-Исправления падений\n\nСпасибо @tsynik\n\nНа правах рекламы https://gonote.ru"
+  },
+  {
+    "version": "1.0.144",
+    "versionInt": 144,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.144-release.apk",
+    "desc": "-ИИ Коллекция, старые убрал\n-Добавил кнопку, которая открывает последний просмотренный торрент\n\nСпасибо @tsynik\n\nНа правах рекламы, не забываем про мой новый проект https://gonote.ru"
+  },
+  {
+    "version": "1.0.143",
+    "versionInt": 143,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.143-release.apk",
+    "desc": "-Чисто bugfixes\n-Отрублен quad9 с прокси\n-Что-то еще\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.142",
+    "versionInt": 142,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.142-release.apk",
+    "desc": "-Красивости\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.141",
+    "versionInt": 141,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.141-release.apk",
+    "desc": "-Исправление работы на телевизорах sony и др\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.140",
+    "versionInt": 140,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.140-release.apk",
+    "desc": "-Еще немного багов\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.139",
+    "versionInt": 139,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.139-release.apk",
+    "desc": "-Исправлена плотность на некоторых устройствах\n-Чтотоеще\n-Баги баги баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.138",
+    "versionInt": 138,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.138-release.apk",
+    "desc": "-Исправлен поиск с Jackett с пустыми категориями\n-Исправлены (надеюсь) ошибки подключения VPN\n-Добавлена статистика подключения Антизапрета\n-Улучшения интерфейса на Android 5.1\n-Исправления для Android 14+\n-Исправления в поиске сериалов на ThePirateBay\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.137",
+    "versionInt": 137,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.137-release.apk",
+    "desc": "-Исправлены найденные баги\n-Улучшен интерфейс\n-Добавлена обработка InfoHash из Jackett\n-Обновлен VPN сервис и добавлено кеширование загрузки конфигурации\n-Улучшена работа поиска\n\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.136",
+    "versionInt": 136,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.136-release.apk",
+    "desc": "-Новый вид настроек приложения\n-Включен доступ в Настройки при загрузке по Инфо / Меню\n-Исправлена сортировка в Мой выбор\n-Добавлено управление историей поиска долгим нажатием\n-Исправлена навигация цветными ТВ-кнопками\n-Добавлена настройка IPv6 для доступа к TMDB\n-Добавлен парсер качества видео для Jackett (Простой список торрентов)\n-Улучшения производительности загрузки страницы описания\n-Новые баги, куда ж без них 😉\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.135",
+    "versionInt": 135,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.135-release.apk",
+    "desc": "-Все сломали как обычно\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.134",
+    "versionInt": 134,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.134-release.apk",
+    "desc": "-Исправления навигации в поиске\n-Некоторые улучшения в интерфейсе\n-Ускорена загрузка релизов с TMDB\n-Исправлены падения на устройствах без поддержки каналов Android TV\n-Другие исправления и новые баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.133",
+    "versionInt": 133,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.133-release.apk",
+    "desc": "-Все починили ничего не работает\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.132",
+    "versionInt": 132,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.132-release.apk",
+    "desc": "-Все сломали ничего не работает\n-Все исправления делал ИИ и tsynik, хотя может это одно и тоже лицо\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.131",
+    "versionInt": 131,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.131-release.apk",
+    "desc": "-Исправление в голосовом поиске\n- Очень много пользователей жаловались что язык поиска на Английском\n- Теперь по умолчанию поиск на Португальском)))\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.130",
+    "versionInt": 130,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.130-release.apk",
+    "desc": "-Исправление ошибок\n-Добавление ошибок\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.129",
+    "versionInt": 129,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.129-release.apk",
+    "desc": "-Откат okhttp к стабильному релизу для возможного исправления падения при работе с Quad9 DoH DNS\n-Обновление библиотек приложения\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.128",
+    "versionInt": 128,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.128-release.apk",
+    "desc": "-Исправления с torrs.ru\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.127",
+    "versionInt": 127,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.127-release.apk",
+    "desc": "-Никита что-то натворил, я хз\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.126",
+    "versionInt": 126,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.126-release.apk",
+    "desc": "-Все ошибки пришли\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.125",
+    "versionInt": 125,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.125-release.apk",
+    "desc": "-Все ошибки ушли\n-Новая функция, фильмы еще до релизов находит))\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.124",
+    "versionInt": 124,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.124-release.apk",
+    "desc": "- Изменения в интерфейсе\n- Обновление библиотек\n- Добавлен встроенный просмотр ошибок приложения\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.123",
+    "versionInt": 123,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.123-release.apk",
+    "desc": "- Исправлены баги с трекерами\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.122",
+    "versionInt": 122,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.122-release.apk",
+    "desc": "- По умолчанию отключен прокси tmdb\n- Исправлены баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.121",
+    "versionInt": 121,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.121-release.apk",
+    "desc": "- Исправлен поиск torrs.ru\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.120",
+    "versionInt": 120,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.120-release.apk",
+    "desc": "- Новый прокси TMDB от torrs.ru заменить можно в настройках\n- Новый парсер torrs.ru\n- Пол литра багов и глюков\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.119",
+    "versionInt": 119,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.119-release.apk",
+    "desc": "- Немного интерфейса\n- Немного багов\n- Немного dns\n- Всех с наступающим Новым Годом\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.118",
+    "versionInt": 118,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.118-release.apk",
+    "desc": "- Исправления падений\n- Мелкие исправления и баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.117",
+    "versionInt": 117,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.117-release.apk",
+    "desc": "- Исправления интерфейса\n- Мелкие исправления и баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.116",
+    "versionInt": 116,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.116-release.apk",
+    "desc": "- Добавлена графика уведомлений на FireOS\n- Исправлен запуск трейлеров на Android TV 12+\n- Исправлены карточки фильмов в 4К интерфейсе\n- Другие исправления\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.115",
+    "versionInt": 115,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.115-release.apk",
+    "desc": "- Исправлен доступ к rutor.lib\n- Исправление багов\n- Редактирование меню\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.114",
+    "versionInt": 114,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.114-release.apk",
+    "desc": "- Исправления интерфейса\n- Мелкие исправления и баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.113",
+    "versionInt": 113,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.113-release.apk",
+    "desc": "- Добавлены опции доступа к TMDB\n- Исправления интерфейса\n- Мелкие исправления и баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.112",
+    "versionInt": 112,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.112-release.apk",
+    "desc": "- Замена jackett по умолчанию\n- Изменения в интерфейсе\n- Мелкие исправления и баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.111",
+    "versionInt": 111,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.111-release.apk",
+    "desc": "- Добавлено в трекеры\n- Добавлено в парсеры\n- Добавлено в исправление\n- Добавлено в баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.110",
+    "versionInt": 110,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.110-release.apk",
+    "desc": "- Замена jackett по умолчанию\n- Добавлена новая тема\n- Мелкие исправления и баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.109",
+    "versionInt": 109,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.109-release.apk",
+    "desc": "- Удален мертвый Torlook\n- Изменения в интерфейсе\n- Мелкие исправления и баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.108",
+    "versionInt": 108,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.108-release.apk",
+    "desc": "- Поправлен поиск торрентов\n- Добавлена кнопка искать на трекерах в карточку\n- Мелкие исправления и баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.107",
+    "versionInt": 107,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.107-release.apk",
+    "desc": "- Поправлены постеры\n- Поправлен torlook.info\n- Поправлен jacket по умолчанию\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.106",
+    "versionInt": 106,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.106-release.apk",
+    "desc": "- Поправлен антизапрет\n- Удален jac.red по умолчанию\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.105",
+    "versionInt": 105,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.105-release.apk",
+    "desc": "- Изменения в прокси для TMDB\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.104",
+    "versionInt": 104,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.104-release.apk",
+    "desc": "- Добавлена авторизация в настройки прокси\n- Исправление ошибок\n- Новый прокси по умолчанию (спасибо @steinus)\n- Как обычно все сломали и ничего не работает после обновления\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.103",
+    "versionInt": 103,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.103-release.apk",
+    "desc": "- Добавлены опции использования прокси-сервера для TMDB (у кого в России и Беларуси нет постеров и данных - нажмите на пункте Информация о видео TMDB в Настройках NUM и включите Использовать прокси, если не используете другие варианты обхода типа своего VPN). Затем перезагрузите устройство.\n- Исправлены некоторые падения\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.102",
+    "versionInt": 102,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.102-release.apk",
+    "desc": "- Вернул тмдб на место, публичный сервер не справляется, будет инструкция как поставить свой антизапрет\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.101",
+    "versionInt": 101,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.101-release.apk",
+    "desc": "- Правки в тмдб, теперь через временный прокси lkf0x.ru\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.100",
+    "versionInt": 100,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.100-release.apk",
+    "desc": "- Исправление открытия настроек на некоторых устройствах\n- Улучшения в интерфейсе\n- Опция автоподключения VPN при загрузке\n- Поддержка 64-битных архитектур для VPN\n- Добавлена Zaborona VPN для Украиныn\n- Исправеление некоторых багов и добавление новых 😉\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.99",
+    "versionInt": 99,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.99-release.apk",
+    "desc": "- Опция удаления дубликатов торрентов\n- Исправления поиска торрентов\n- Показ всех подборок по умолчанию\n- Улучшения в интерфейсе\n- Встроенный VPN-клиент обхода блокировок\n- Новые настройки приложения\n- Исправление навигации после открытия из канала АТВ\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.98",
+    "versionInt": 98,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.98-release.apk",
+    "desc": "- Исправление багов\n- Добавление багов\n- Сегодня без багов\n- Завтра надеюсь тоже\n- Не забываем заходить на сайт torlook.info\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.97",
+    "versionInt": 97,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.97-release.apk",
+    "desc": "- Что-то там в торлуке\n- Интерфейс немного\n- Сегодня без багов\n- Не забываем заходить на сайт torlook.info\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.96",
+    "versionInt": 96,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.96-release.apk",
+    "desc": "- Что-то там в подборках\n- Интерфейс немного\n- Торлук отключен ждем апи от автора, пока автор пишет апи, можно зайти на сайт torlook.info\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.95",
+    "versionInt": 95,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.95-release.apk",
+    "desc": "- Поправил ошибки текущего релиза\n- Добавил скрытие панели навигации\n- Сделал динамический размер постеров\n\nВсе это сделал @tsynik"
+  },
+  {
+    "version": "1.0.94",
+    "versionInt": 94,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.94-release.apk",
+    "desc": "- Я сам не знаю что там\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.93",
+    "versionInt": 93,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.93-release.apk",
+    "desc": "- Поправлен torlook.info\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.92",
+    "versionInt": 92,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.92-release.apk",
+    "desc": "- Исправления, исправления, исправления, баги и что-то ещё\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.91",
+    "versionInt": 91,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.91-release.apk",
+    "desc": "- Исправления в поиске по трекерам\n- Обновлены голосовые команды\n- Опции скрытия рейтингов с карточек\n- Другие изменения в интерфейсе и исправления\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.90",
+    "versionInt": 90,
+    "link": "http://releases.yourok.ru/num/release/NUM_1.0.90-release.apk",
+    "desc": "- Исправлено падение при использование мегапира\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.89",
+    "versionInt": 89,
+    "link": "http://releases.yourok.ru/num/release/NUM_1.0.89-release.apk",
+    "desc": "- То да сё, интерфейс немного и еще чего-то\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.88",
+    "versionInt": 88,
+    "link": "http://releases.yourok.ru/num/release/NUM_1.0.88-release.apk",
+    "desc": "- Исправлено падение при плохой связи\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.87",
+    "versionInt": 87,
+    "link": "http://releases.yourok.ru/num/release/NUM_1.0.87-release.apk",
+    "desc": "- Улучшения и исправления, баги и ошибки, поиск и не поиск\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.86",
+    "versionInt": 86,
+    "link": "http://releases.yourok.ru/num/release/NUM_1.0.86-release.apk",
+    "desc": "- Новый формат данных"
+  },
+  {
+    "version": "1.0.85",
+    "versionInt": 85,
+    "link": "http://releases.yourok.ru/num/release/NUM_1.0.85-release.apk",
+    "desc": "- Исправление падения\n- Увеличил время кэша\n- Добавлен китайский язык\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.84",
+    "versionInt": 84,
+    "link": "http://releases.yourok.ru/num/release/NUM_1.0.84-release.apk",
+    "desc": "- Фильтр для Dolby Vision\n- Убрал настройки после обновления\n- Добавил соглашение и багов чуть\n- Импорт/Экспорт настроек, фильтров, избранного и истории\n- Исправлены падения и еще ошибки\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.83",
+    "versionInt": 83,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.83/NUM_1.0.83-release.apk",
+    "desc": "- Небольшие изменения в интерфейсе\n- Устранено падение на Андроид 11\n- Добавлен трекер ThePirateBay для англоязычных пользователей\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.82",
+    "versionInt": 82,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.82/NUM_1.0.82-release.apk",
+    "desc": "- Исправления в поиске\n- Добавление канала мультсериалов\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.81",
+    "versionInt": 81,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.81/NUM_1.0.81-release.apk",
+    "desc": "- Исправление падения\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.80",
+    "versionInt": 80,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.80/NUM_1.0.80-release.apk",
+    "desc": "- Исправление падения\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.79",
+    "versionInt": 79,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.79/NUM_1.0.79-release.apk",
+    "desc": "- Исправлен поиск мегапир\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.78",
+    "versionInt": 78,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.78/NUM_1.0.78-release.apk",
+    "desc": "- Исправления вида в 1 ряд\n- Исправление категорий фильтра Мой выбор и разделов рекомендаций\n- Исправления навигации кнопками ТВ-пульта\n- Фикс настроек при смене темы\n- Изменения в интерфейсе\n- Исправление багов, надеюсь всех\n- Что-то еще, наверно...\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.77",
+    "versionInt": 77,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.77/NUM_1.0.77-release.apk",
+    "desc": "- Разделены мультфильмы и мультсериалы\n- Добавлены фильтры для фильмов и мультфильмов в новинках, по качеству видео\n- Сделан вывод простого списка торрентов, включается в настройках\n- Переделаны немного настройки\n- Баги никуда не делись, а только добавились\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.76",
+    "versionInt": 76,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.76/NUM_1.0.76-release.apk",
+    "desc": "- Исправления полноэкранной навигации и отображения для одного ряда\n- Исправления анимации\n- Добавлен вид 3 в ряд\n- Добавление глюков\n- Исправление поиска\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.75",
+    "versionInt": 75,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.75/NUM_1.0.75-release.apk",
+    "desc": "- Исправления двух рядов"
+  },
+  {
+    "version": "1.0.74",
+    "versionInt": 74,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.74/NUM_1.0.74-release.apk",
+    "desc": "- Можно выбрать одну или две строки фильмов\n- По долгому удержанию будет выдавать выбор в TorrServe, даже если стоит галка по умолчанию\n- Предыдущие баги оставил"
+  },
+  {
+    "version": "1.0.73",
+    "versionInt": 73,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.73/NUM_1.0.73-release.apk",
+    "desc": "- Изменения в интерфейсе\n- Поправлен баг с Jacket, неправильно отображались пиры/сиды\n- Щепотка багов\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.72",
+    "versionInt": 72,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.72/NUM_1.0.72-release.apk",
+    "desc": "- Изменения в интерфейсе\n- Исправления и баги\n\nЗа все спасибо @tsynik ))"
+  },
+  {
+    "version": "1.0.71",
+    "versionInt": 71,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.71/NUM_1.0.71-release.apk",
+    "desc": "- Изменения в интерфейсе\n- Исправление, но не всех багов\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.70",
+    "versionInt": 70,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.70/NUM_1.0.70-release.apk",
+    "desc": "- Добавлены темы интерфейса\n- Исправлены баги\n- Добавлены баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.69",
+    "versionInt": 69,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.69/NUM_1.0.69-release.apk",
+    "desc": "- Добавлен 4K в рекомендации и каналы\n- Добавлен поиск по именам коллекций внутри приложения\n- Улучшена страница поиска\n- Исправлен доступ к torlook.info (может блокироваться вашим провайдером)\n- Добавлено ограничение на количество результатов поиска и содержимое каналов АТВ\n- Дополнены опции Jackett\n- Улучшена загрузка описаний видео\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.68",
+    "versionInt": 68,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.68/NUM_1.0.68-release.apk",
+    "desc": "- Улучшение и исправление и добавление\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.67",
+    "versionInt": 67,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.67/NUM_1.0.67-release.apk",
+    "desc": "- Исправление и добавление багов\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.66",
+    "versionInt": 66,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.66/NUM_1.0.66-release.apk",
+    "desc": "- Исправление падение программы в некоторых случаях\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.65",
+    "versionInt": 65,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.65/NUM_1.0.65-release.apk",
+    "desc": "- Добавлен обход для rutor через rutor.lib\n- Добавлен агрегатор Jackett\n- Исправлены баги и добавлены новые\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "1.0.64",
+    "versionInt": 64,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.64/NUM_1.0.64-release.apk",
+    "desc": "- Изменение поведения истории поиска\n- Исправления загрузки данных TMDB\n- Исправление обновления канала Избранного\n- Исправление падения приложения при просмотре подборок\n\nСпасибо @tsynik за помощь"
+  },
+  {
+    "version": "1.0.63",
+    "versionInt": 63,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.63/NUM_1.0.63-release.apk",
+    "desc": "- Обновления и улучшения\n- Поправлены баги\n\nСпасибо @tsynik за помощь"
+  },
+  {
+    "version": "1.0.62",
+    "versionInt": 62,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.62/NUM_1.0.62-release.apk",
+    "desc": "- Исправлен Megapeer\n- Добавлены фильмы вышедшие в 4к\n- Поправлены трейлеры\n- Другие исправления\n\nСпасибо @tsynik за помощь"
+  },
+  {
+    "version": "1.0.61",
+    "versionInt": 61,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.61/NUM_1.0.61-release.apk",
+    "desc": "- Добавлены подробные описания фильмов и актёров\n- Изменено оформление страниц описания\n- Улучшена навигация на мобильных устройствах\n- Синхронизация Избранного с лончером\n- Исправлен список жанров для латвийского языка\n- Исправлены запросы к TMDB\n- Исправлены некоторые ошибки\n\nСпасибо @tsynik за помощь"
+  },
+  {
+    "version": "1.0.60",
+    "versionInt": 60,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.60/NUM_1.0.60-release.apk",
+    "desc": "- Изменения в интерфейсе\n- Оптимизация и улучшения\n\nСпасибо @tsynik за помощь"
+  },
+  {
+    "version": "1.0.59",
+    "versionInt": 59,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.59/NUM_1.0.59-release.apk",
+    "desc": "- Изменения в интерфейсе\n- Избранное для всех андроидов\n- Оптимизация и улучшения\n\nСпасибо @tsynik за помощь"
+  },
+  {
+    "version": "1.0.58",
+    "versionInt": 58,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.58/NUM_1.0.58-release.apk",
+    "desc": "- Поправлен поиск, теперь ищет чуть дольше, но показывает все варианты\n- Поправлен фокус в окне поиска приложения\nСпасибо @tsynik за помощь"
+  },
+  {
+    "version": "1.0.57",
+    "versionInt": 57,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.57/NUM_1.0.57-release.apk",
+    "desc": "- Добавлена история в поиск по трекерам\n- Исправления и дополнения\n\nСпасибо @tsynik за помощь"
+  },
+  {
+    "version": "1.0.56",
+    "versionInt": 56,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.56/NUM_1.0.56-release.apk",
+    "desc": "- Изменения в интерфейсе\n- Исправлен megapeer\n\nСпасибо @tsynik за помощь"
+  },
+  {
+    "version": "1.0.55",
+    "versionInt": 55,
+    "link": "https://github.com/YouROK/releases/releases/download/1.0.55/NUM_1.0.55-release.apk",
+    "desc": "- Оптимизация и улучшения\n- Постеры и задники загружаются меньших размеров\n- Поправлены ошибки с падением\n- Изменения в интерфейсе\n- Добавил подборки от Амедиа\n\nНезабываем зайти на https://torlook.info для поддержки сайта чтобы не заблокировали в NUM\n\nСпасибо @tsynik за помощь"
+  },
+  {
+    "version": "1.0.54",
+    "versionInt": 54,
+    "link": "https://github.com/YouROK/releases/releases/download/1.1.54/NUM_1.0.54-release.apk",
+    "desc": "- Оптимизации и улучшения\n- Поправлена загрузка постеров и задника\nСпасибо @tsynik и Nemiroff за помощь"
+  },
+  {
+    "version": "1.0.53",
+    "versionInt": 53,
+    "link": "https://github.com/YouROK/releases/releases/download/1.1.53/NUM_1.0.53-release.apk",
+    "desc": "- Переезжаем снова на гит, сервак упал и все накрылось\n- Некоторые изменения в интерфейсе и улучшения"
+  },
+  {
+    "version": "1.0.52",
+    "versionInt": 52,
+    "link": "http://num.yourok.ru:50100/num/files/NUM_1.0.52-release.apk",
+    "desc": "Спасибо @tsynik за помощь\nЗеркала Rutor.info перестали работать, чтобы приложение искало на рутор в России, нужно установить обход, читайте описание в настройках\n- Оптимизации и исправление багов\n- Добавлены подборки от IVI\n- Добавлен поиск по трекерам в голом виде\n- Добавлено описание обхода блокировки РКН\n- Поправлены каналы, удаляются не используемые и дублирующие\n- Поправлен фильтр для торрентов\n- Выделенный сервер для поиска релизов, коллекций и обновлений"
+  },
+  {
+    "version": "1.0.51",
+    "versionInt": 51,
+    "link": "http://num.yourok.ru:50100/num/files/NUM_1.0.51-release.apk",
+    "desc": "- Добавлен поиск для аосп\n- Изменения в интерфейсе\n- Добавлен ретрекер мегапир\n- Добавление и лечения багов\nСпасибо @tsynik за помощь"
+  },
+  {
+    "version": "1.0.50",
+    "versionInt": 50,
+    "link": "http://num.yourok.ru:50100/num/files/NUM_1.0.50-release.apk",
+    "desc": "Спасибо @tsynik\n- Исправления поиска на Рутор\n- Форсированный поиск на Торлук\n- Исправления баннера на андроид 6"
+  }
+]
