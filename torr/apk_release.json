@@ -1,0 +1,290 @@
+[
+  {
+    "version": "MatriX.141",
+    "versionInt": 141,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.141.Client/TorrServe_MatriX.141.Client-release.apk",
+    "desc": "- Поправлены настройки\n- Добавлен плеер DDD\n- Исправлено удаление из домашнего экрана АТВ(???)"
+  },
+  {
+    "version": "MatriX.140",
+    "versionInt": 140,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.140.Client/TorrServe_MatriX.140.Client-release.apk",
+    "desc": "- Добавлены настройки прокси"
+  },
+  {
+    "version": "MatriX.137",
+    "versionInt": 137,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.137.Client/TorrServe_MatriX.137.Client-release.apk",
+    "desc": "- Добавлены настройки от сревера 137\n- Косметические доработки\n- Исправление некоторых багов\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.136",
+    "versionInt": 136,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.136.Client/TorrServe_MatriX.136.Client-release.apk",
+    "desc": "- Небольшие косметические изменения\n- Поправлены некоторые баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.135",
+    "versionInt": 135,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.135.Client/TorrServe_MatriX.135.Client-release.apk",
+    "desc": "- Изменения в интерфейсе\n- Другие изменения\n\nСпасибо @tsynik @litvcom @aston314 Johnny(@J0hnny94)"
+  },
+  {
+    "version": "MatriX.134",
+    "versionInt": 134,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.134.Client/TorrServe_MatriX.134.Client-release.apk",
+    "desc": "- Поддержка новых опций torrserver\n- Изменен вид списка файлов торрента\n- Сообщение о включенном сервисе в уведомлениях\n- Исправления для Android 4.1\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.133",
+    "versionInt": 133,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.133.Client/TorrServe_MatriX.133.Client-release.apk",
+    "desc": "- Добавлена поддержка категорий торрентов\n- Улучшения в UI\n- Исправления для https соединений\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.132",
+    "versionInt": 132,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.132.Client/TorrServe_MatriX.132.Client-release.apk",
+    "desc": "- Добавлена поддержка категорий торрентов\n- Улучшения в UI\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.131",
+    "versionInt": 131,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.131.Client/TorrServe_MatriX.131.Client-release.apk",
+    "desc": "- Изменения в интерфейсе и исправления багов\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.130",
+    "versionInt": 130,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.130.Client/TorrServe_MatriX.130.Client-release.apk",
+    "desc": "- Изменения в интерфейсе\n- Исправление багов\n\nСпасибо @tsynik @TopperBG"
+  },
+  {
+    "version": "MatriX.129",
+    "versionInt": 129,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.129.Client/TorrServe_MatriX.129.Client-release.apk",
+    "desc": "- Исправление багов\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.128",
+    "versionInt": 128,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.128.Client/TorrServe_MatriX.128.Client-release.apk",
+    "desc": "- Добавление измерение скорости до сервера\n- Небольшие исправления\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.127",
+    "versionInt": 127,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.127.Client/TorrServe_MatriX.127.Client-release.apk",
+    "desc": "- Добавлен Болгарский язык\n- Добавлен список по умолчанию в UPlayer от Ugoos\n\nСпасибо @tsynik @TopperBG"
+  },
+  {
+    "version": "MatriX.126",
+    "versionInt": 126,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.126.Client/TorrServe_MatriX.126.Client-release.apk",
+    "desc": "- Исправлена работа на Android < 5\n- Исправлен запуск локального сервера на Android 14+\n- Добавлена автоустановка локального сервера\n- Другие мелкие исправления\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.123",
+    "versionInt": 123,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.123.Client/TorrServe_MatriX.123.Client-release.apk",
+    "desc": "- Небольшие исправления багов\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.122",
+    "versionInt": 122,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.122.Client/TorrServe_MatriX.122.Client-release.apk",
+    "desc": "- Уменьшено время таймаута соединений\n- Новый вид информационных сообщений\n- Проверка выгрузки локального сервера при включенных спец. возможностях и переключении на внешний сервер\n- Подтверждение выхода из приложения\n- Опциональная наэкранная кнопка меню\n- Сортировка списка торрентов RuTor\n- Восстановлена работоспособность на Android 4.2\n- Добавлен диалог выбора сервера при недоступности\n- Исправление ошибок\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.121",
+    "versionInt": 121,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.121.Client/TorrServe_MatriX.121.Client-release.apk",
+    "desc": "- Изменения в интерфейсе\n- Добавлен поиск по рутор\n- Если в настройках введен логин и пароль, сервер будет запущен с авторизацией\n- Мелкие исправления и баги\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.120",
+    "versionInt": 120,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.120.Client/TorrServe_MatriX.120.Client-release.apk",
+    "desc": "Добавлены настройки поиска по рутор\nВ TorrServer Matrix.120 добавлен поиск по рутор"
+  },
+  {
+    "version": "MatriX.117",
+    "versionInt": 117,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.117.Client/TorrServe_MatriX.117.Client-release.apk",
+    "desc": "- Небольшие правки\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.115",
+    "versionInt": 115,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.115.Client/TorrServe_MatriX.115.Client-release.apk",
+    "desc": "- Плейлист в MX плеер\n- Добавлена поддержка vimuhd бесплатного\n- Улучшение в проверки рута\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.114",
+    "versionInt": 114,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.114.Client/TorrServe_MatriX.114.Client-release.apk",
+    "desc": "- Небольшие изменения\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.113",
+    "versionInt": 113,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.113.Client/TorrServe_MatriX.113.Client-release.apk",
+    "desc": "- Исправление бага с запуском сервера"
+  },
+  {
+    "version": "MatriX.112",
+    "versionInt": 112,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.112.Client/TorrServe_MatriX.112.Client-release.apk",
+    "desc": "- Небольшие изменения в интерфейсе\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.111",
+    "versionInt": 111,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.111.Client/TorrServe_MatriX.111.Client-release.apk",
+    "desc": "- Правка в настройках\n- По мелочи интерфейс\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.110",
+    "versionInt": 110,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.110.Client/TorrServe_MatriX.110.Client-release.apk",
+    "desc": "- Hotfixes\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.109",
+    "versionInt": 109,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.109.Client/TorrServe_MatriX.109.Client-release.apk",
+    "desc": "- Исправления багов и адаптация сервера\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.108",
+    "versionInt": 108,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.108.Client/TorrServe_MatriX.108.Client-release.apk",
+    "desc": "- Исправления багов и адаптация сервера\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.107",
+    "versionInt": 107,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.107.Client/TorrServe_MatriX.107.Client-release.apk",
+    "desc": "- Изменения в настройках\n- Адаптация приложения к разным серверам\n- Капелюшечку изменен интерфейс\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.106",
+    "versionInt": 106,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.106.Client/TorrServe_MatriX.106.Client-release.apk",
+    "desc": "- Мелкие правки для вызова меню выбора"
+  },
+  {
+    "version": "MatriX.105",
+    "versionInt": 105,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.105.Client/TorrServe_MatriX.105.Client-release.apk",
+    "desc": "- Возврат на старый SDK\n\n<font color='red'><b>Если обновление не устанавливается, нужно вручную скачать и установить приложение</b></font>\n<a href='https://github.com/YouROK/TorrServe/releases/download/MatriX.105.Client/TorrServe_MatriX.105.Client-release.apk'>https://github.com/YouROK/TorrServe/releases/download/MatriX.105.Client/TorrServe_MatriX.105.Client-release.apk</a>"
+  },
+  {
+    "version": "MatriX.104",
+    "versionInt": 104,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.104.Client/TorrServe_MatriX.104.Client-release.apk",
+    "desc": "- Изменения в интерфейсе\n- Исправление багов\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.103",
+    "versionInt": 103,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.103/TorrServe_MatriX.103-release.apk",
+    "desc": "- Добавлены настройки кэша на диск"
+  },
+  {
+    "version": "MatriX.102",
+    "versionInt": 102,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.102/TorrServe_MatriX.102-release.apk",
+    "desc": "- Изменения в оформлении и новый баннер\n- Улучшены настройки сервиса спец возможностей и добавлена проверка отключения\n- Исправлено освобождение памяти при отмене предзагрузки торрента\n- Другие мелкие исправления 😉\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.101",
+    "versionInt": 101,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.101/TorrServe_MatriX.101-release.apk",
+    "desc": "- Дополнены опции для управления спец. возможностями\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.100",
+    "versionInt": 100,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.100/TorrServe_MatriX.100-release.apk",
+    "desc": "- Дополнены опции сервера и описание к параметров.\n- Исправление багов и добавление новых\n- Добавлен вызов настроек из сервиса спец. возможностей\n- Улучшение и изменения в интерфейсе\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.99",
+    "versionInt": 99,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.99/TorrServe_MatriX.99-release.apk",
+    "desc": "- Изменения в интерфейсе\n- Добавлена служба в спец. чтобы не убивала ос\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.98",
+    "versionInt": 98,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.98/TorrServe_MatriX.98-release.apk",
+    "desc": "- Исправлено падение, Спасибо @tsynik"
+  },
+  {
+    "version": "MatriX.97",
+    "versionInt": 97,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.97/TorrServe_MatriX.97-release.apk",
+    "desc": "- Изменён поиск серверов\n- Исправлена предзагрузка при включенной авторизации\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.96",
+    "versionInt": 96,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.96/TorrServe_MatriX.96-release.apk",
+    "desc": "- Исправлен поиск серверов\n- Исправлено отображение скорости\n- Добавлен украинский язык\n- Исправление багов и добавление новых, изменения в интерфейсе\n- Поправлен канал АТВ\n- Добавлены настройки по умолчанию\n- Добавлено удаление отметок о просмотре\n\nСпасибо @tsynik & @spawn_lmg"
+  },
+  {
+    "version": "MatriX.95",
+    "versionInt": 95,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.95/TorrServe_MatriX.95-release.apk",
+    "desc": "- Изменения в интерфейсе\n- Добавил авторизацию для сервера\n\nСпасибо @tsynik"
+  },
+  {
+    "version": "MatriX.94",
+    "versionInt": 94,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.94/TorrServe_MatriX.94-release.apk",
+    "desc": "- Поправил поиск серверов"
+  },
+  {
+    "version": "MatriX.93",
+    "versionInt": 93,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.93/TorrServe_MatriX.93-release.apk",
+    "desc": "- Новая версия"
+  },
+  {
+    "version": "1.2.92 beta 7.1",
+    "versionInt": 92,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/1.2.92_beta_7.1/TorrServe_1.2.92_beta_7.1-release.apk",
+    "desc": "- Beta version\n- Improvement and bug fix"
+  },
+  {
+    "version": "1.2.91 beta 7",
+    "versionInt": 91,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/1.2.91_beta_7/TorrServe_1.2.91_beta_7-release.apk",
+    "desc": "- Beta version\n- Improvement and bug fix"
+  },
+  {
+    "version": "1.2.90 beta 6",
+    "versionInt": 90,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/1.2.90_beta_6/TorrServe_1.2.90_beta_6-release.apk",
+    "desc": "- Beta version\n- Improvement and bug fix"
+  },
+  {
+    "version": "1.2.89 beta 4",
+    "versionInt": 89,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/1.2.89_beta_4/TorrServe_1.2.89_beta_4-release.apk",
+    "desc": "- Beta version\n- Improvement and bug fix"
+  },
+  {
+    "version": "1.2.88 beta 3",
+    "versionInt": 88,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/1.2.88_beta_3/TorrServe_1.2.88_beta_3-release.apk",
+    "desc": "- Beta version\n- Improvement and bug fix"
+  },
+  {
+    "version": "1.2.87 beta 2",
+    "versionInt": 87,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/1.2.87_beta_2/TorrServe_1.2.87_beta_2-release.apk",
+    "desc": "- Beta version"
+  }
+]
