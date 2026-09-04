@@ -1,5 +1,11 @@
 [
   {
+    "version": "MatriX.142",
+    "versionInt": 142,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.142.Client/TorrServe_MatriX.142.Client-release.apk",
+    "desc": "- Новые настройки\n- Исправлено удаление из домашнего экрана АТВ\n- Поддержка m3u в коди\n\nСпасибо @tsynik"
+  },
+  {
     "version": "MatriX.141",
     "versionInt": 141,
     "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.141.Client/TorrServe_MatriX.141.Client-release.apk",
@@ -45,7 +51,7 @@
     "version": "MatriX.132",
     "versionInt": 132,
     "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.132.Client/TorrServe_MatriX.132.Client-release.apk",
-    "desc": "- Добавлена поддержка категорий торрентов\n- Улучшения в UI\n\nСпасибо @tsynik"
+    "desc": "- Добавлена поддержка категорий торрентов\n- Улучшения в UI\n\nСпасибо @tsynik @pavelpikta"
   },
   {
     "version": "MatriX.131",
