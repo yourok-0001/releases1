@@ -2,7 +2,7 @@
   {
     "version": "MatriX.143",
     "versionInt": 143,
-    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.143.Client/TorrServe_MatriX.143.Client-release.apk",
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.143.Client/TorrServe_MatriX.143.Client.apk",
     "desc": "- Добавлена поддержка категорий торрентов\n- Авто обнаружение серверов в локальной сети (mDNS)\n- Поддержка воспроизведения M3U в Kodi 22+\n- Настройка отключения сервиса специальных возможностей при смене сервера\n- Добавлен румынский язык\n- Поддержка плагинов... Не туда\n\nСпасибо @tsynik @pavelpikta @VuzzyM"
   },
   {
