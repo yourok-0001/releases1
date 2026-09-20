@@ -36,6 +36,10 @@
 
 </head>
 <body>
+<!-- TMDB_API_KEY must be injected at deploy time (e.g. by server-side templating
+     or an environment-driven build step) and must NOT be committed to source
+     control or baked into main.dart.js. -->
+<script>window.TMDB_API_KEY = window.TMDB_API_KEY || '';</script>
 <!-- This script installs service_worker.js to provide PWA functionality to
      application. For more information, see:
      https://developers.google.com/web/fundamentals/primers/service-workers -->

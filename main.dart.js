@@ -28475,11 +28475,11 @@ return A.H(A.aIu(),$async$Hh)
 case 2:$.Wh="ru"
 if(("ru"==="ji"?$.Wh="yi":"ru")==="lv")$.Wh="en"
 s=3
-return A.H(A.rP("https://"+$.Mv+$.MD+"/3/genre/movie/list?api_key=45ddf563ac3fb845f2d5c363190d1a33&language=ru"),$async$Hh)
+return A.H(A.rP("https://"+$.Mv+$.MD+"/3/genre/movie/list?api_key="+self.TMDB_API_KEY+"&language=ru"),$async$Hh)
 case 3:q=b
 if(q.length!==0){p=J.jf(t.j.a(J.bg(B.aV.my(0,q,null),"genres")),new A.auO(),t.ug)
 B.c.G($.MS(),p)}s=4
-return A.H(A.rP("https://"+$.Mv+$.MD+"/3/genre/tv/list?api_key=45ddf563ac3fb845f2d5c363190d1a33&language=ru"),$async$Hh)
+return A.H(A.rP("https://"+$.Mv+$.MD+"/3/genre/tv/list?api_key="+self.TMDB_API_KEY+"&language=ru"),$async$Hh)
 case 4:q=b
 if(q.length!==0){p=J.jf(t.j.a(J.bg(B.aV.my(0,q,null),"genres")),new A.auP(),t.ug)
 B.c.G($.MS(),p)}o=$.MS()
@@ -28490,7 +28490,7 @@ return A.D($async$Hh,r)},
 Hi(a,b){var s=0,r=A.E(t.Lm),q,p,o,n,m
 var $async$Hi=A.z(function(c,d){if(c===1)return A.B(d,r)
 for(;;)switch(s){case 0:m=new A.eQ(t.dl)
-m.m(0,"api_key","45ddf563ac3fb845f2d5c363190d1a33")
+m.m(0,"api_key",self.TMDB_API_KEY)
 p=b.length===0?$.Wh:b
 m.m(0,"language",p)
 m.m(0,"append_to_response","videos,images")
@@ -28509,7 +28509,7 @@ case 1:return A.C(q,r)}})
 return A.D($async$Hi,r)},
 Hj(a,b,c){var s=0,r=A.E(t.yG),q,p,o,n,m,l,k,j,i,h,g
 var $async$Hj=A.z(function(d,e){if(d===1)return A.B(e,r)
-for(;;)switch(s){case 0:b.m(0,"api_key","45ddf563ac3fb845f2d5c363190d1a33")
+for(;;)switch(s){case 0:b.m(0,"api_key",self.TMDB_API_KEY)
 b.m(0,"language",c)
 b.m(0,"include_adult","false")
 s=3
@@ -28563,7 +28563,7 @@ q=p
 s=1
 break}p=t.N
 o=A.q(p,p)
-o.m(0,"api_key","45ddf563ac3fb845f2d5c363190d1a33")
+o.m(0,"api_key",self.TMDB_API_KEY)
 o.m(0,"language",b)
 s=3
 return A.H(A.rP(A.qy(null,$.Mv,$.MD+"/3/"+("collection/"+a),o,"https").gml()),$async$auL)
@@ -31333,7 +31333,7 @@ case 1:return A.C(q,r)}})
 return A.D($async$agd,r)},
 aIu(){var s=0,r=A.E(t.H),q=1,p=[],o,n,m,l,k
 var $async$aIu=A.z(function(a,b){if(a===1){p.push(b)
-s=q}for(;;)switch(s){case 0:l=A.e4("https://api.themoviedb.org/3/movie/popular?api_key=45ddf563ac3fb845f2d5c363190d1a33",0,null)
+s=q}for(;;)switch(s){case 0:l=A.e4("https://api.themoviedb.org/3/movie/popular?api_key="+self.TMDB_API_KEY,0,null)
 q=3
 s=6
 return A.H(A.aMX(l).Nl(0,B.Mk),$async$aIu)
