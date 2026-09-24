@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"updated_at": "2026-09-23T11:00:00Z",
+	"plugins": [
+		{
+			"id": "tracker-manager",
+			"name": "Tracker Manager",
+			"version": "1.0.0",
+			"author": "YouROK",
+			"description": "Global torrent tracker policy and list manager",
+			"icon": "https://raw.githubusercontent.com/TorrServer-Project/plugin-tracker-manager/1.0.0/img/ico-retrackers.svg",
+			"download_url": "https://github.com/TorrServer-Project/plugin-tracker-manager/releases/download/1.0.0/tracker-manager-v1.0.0.zip",
+			"size": 19083,
+			"sha256": "257229c39c4621e74e5be815b705b4b0d3cb11c675d429fbde61aebc3bc17ba4",
+			"homepage": "https://github.com/TorrServer-Project/plugin-tracker-manager"
+		},
+		{
+			"id": "webdav",
+			"name": "WebDAV",
+			"version": "1.0.0",
+			"author": "YouROK",
+			"description": "Read-only WebDAV access to your torrent library",
+			"icon": "https://raw.githubusercontent.com/TorrServer-Project/plugin-webdav/1.0.0/img/ico-webdav.svg",
+			"download_url": "https://github.com/TorrServer-Project/plugin-webdav/releases/download/1.0.0/webdav-v1.0.0.zip",
+			"size": 20069,
+			"sha256": "a1113151acfcba29449955696482472002308ee8db00624529b537c8f0a3fa48",
+			"homepage": "https://github.com/TorrServer-Project/plugin-webdav"
+		},
+		{
+			"id": "blacklist-ip",
+			"name": "IP Blocklist",
+			"version": "1.0.0",
+			"author": "YouROK",
+			"description": "Global IP blocklist manager for the torrent engine",
+			"icon": "https://raw.githubusercontent.com/TorrServer-Project/plugin-blacklist-ip/1.0.0/img/ico-blacklist-ip.svg",
+			"download_url": "https://github.com/TorrServer-Project/plugin-blacklist-ip/releases/download/1.0.0/blacklist-ip-v1.0.0.zip",
+			"size": 19458,
+			"sha256": "cf8b59f4f0e4972dbea97780f46ff030dd835122c5a60c3ee6174faa89842819",
+			"homepage": "https://github.com/TorrServer-Project/plugin-blacklist-ip"
+		}
+	]
+}
