@@ -1,5 +1,11 @@
 [
   {
+    "version": "MatriX.144",
+    "versionInt": 144,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.144.Client/TorrServe_MatriX.144.Client.apk",
+    "desc": "- Обновлены настройки TorrServe\n- Добавлена поддержка плеера Magnet Series\n- Добавлена поддержка BDRIP для Magnet Series\n- Добавлена поддержка плеера Just+\n- Добавлен поиск Torznab на экране добавления\n- Выполнен рефакторинг экрана поиска серверов\n- Добавлен виджет поиска\n\nСпасибо @tsynik @ivanarray @Drafteed @srgsf @levende"
+  },
+  {
     "version": "MatriX.143",
     "versionInt": 143,
     "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.143.Client/TorrServe_MatriX.143.Client.apk",
