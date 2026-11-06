@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.151",
+    "versionInt": 151,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.151-release.apk",
+    "desc": "- Удален встроенный openvpn\n- Удален ретрекер torrs\n- Оптимизированы запросы к tmdb\n- Оптимизирована загрузка постеров\n- Добавлена навигация свайпами для тачскринов\n\nСпасибо @tsynik @J0hnny94"
+  },
+  {
     "version": "1.0.150",
     "versionInt": 150,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.150-release.apk",
