@@ -1,5 +1,11 @@
 [
   {
+    "version": "MatriX.145",
+    "versionInt": 145,
+    "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.145.Client/TorrServe_MatriX.145.Client.apk",
+    "desc": "- Добавлена опция показа панели поиска\n- Исправлена загрузка обновлений и торрсервера на старых андроидах\n- Исправлена функция продолжения воспроизведения для плеера Just+\n- Улучшения в GUI\n\nСпасибо @tsynik"
+  },
+  {
     "version": "MatriX.144",
     "versionInt": 144,
     "link": "https://github.com/YouROK/TorrServe/releases/download/MatriX.144.Client/TorrServe_MatriX.144.Client.apk",
