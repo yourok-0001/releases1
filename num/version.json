@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.152",
+    "versionInt": 152,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.152-release.apk",
+    "desc": "- Исправление обновлений на старых андроидах\n- Исправление поиска jackett, megapeer\n- Оптимизации поиска\n- Автоматический режим выбора сервера tmdb api по умолчанию\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.151",
     "versionInt": 151,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.151-release.apk",
