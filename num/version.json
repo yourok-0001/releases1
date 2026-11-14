@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.153",
+    "versionInt": 153,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.153-release.apk",
+    "desc": "- Исправление клавиатуры в поиске и улучшения в UI\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.152",
     "versionInt": 152,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.152-release.apk",
