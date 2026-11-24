@@ -1,0 +1,54 @@
+{
+	"version": 1,
+	"updated_at": "2026-11-23T19:33:45Z",
+	"plugins": [
+		{
+			"id": "tracker-manager",
+			"name": "Tracker Manager",
+			"version": "1.0.1",
+			"author": "YouROK",
+			"description": "Global torrent tracker policy and list manager",
+			"icon": "https://raw.githubusercontent.com/TorrServer-Project/plugin-tracker-manager/1.0.1/img/ico-retrackers.svg",
+			"download_url": "https://github.com/TorrServer-Project/plugin-tracker-manager/releases/download/1.0.1/tracker-manager-v1.0.1.zip",
+			"size": 20322,
+			"sha256": "96dc57503d0abfa404024dd0674d08abe580f313cbfd88d3928a226defc5ef3d",
+			"homepage": "https://github.com/TorrServer-Project/plugin-tracker-manager"
+		},
+		{
+			"id": "webdav",
+			"name": "WebDAV",
+			"version": "1.0.1",
+			"author": "YouROK",
+			"description": "Read-only WebDAV access to your torrent library",
+			"icon": "https://raw.githubusercontent.com/TorrServer-Project/plugin-webdav/1.0.1/img/ico-webdav.svg",
+			"download_url": "https://github.com/TorrServer-Project/plugin-webdav/releases/download/1.0.1/webdav-v1.0.1.zip",
+			"size": 20607,
+			"sha256": "bab529bc27197d47d135bd031470764e202db2de4c178c0357bbb74c04c724ea",
+			"homepage": "https://github.com/TorrServer-Project/plugin-webdav"
+		},
+		{
+			"id": "fuse",
+			"name": "FUSE",
+			"version": "1.0.2",
+			"author": "YouROK",
+			"description": "Mount the torrent library as a local read-only filesystem",
+			"icon": "https://raw.githubusercontent.com/TorrServer-Project/plugin-fuse/1.0.2/img/ico-fuse.svg",
+			"download_url": "https://github.com/TorrServer-Project/plugin-fuse/releases/download/1.0.2/fuse-v1.0.2.zip",
+			"size": 21849,
+			"sha256": "5f777cb4411f7803526741b17e8615bb4df7f45ab0b97b9ae0955cf3a28c0956",
+			"homepage": "https://github.com/TorrServer-Project/plugin-fuse"
+		},
+		{
+			"id": "blacklist-ip",
+			"name": "IP Blocklist",
+			"version": "1.0.1",
+			"author": "YouROK",
+			"description": "Global IP blocklist manager for the torrent engine",
+			"icon": "https://raw.githubusercontent.com/TorrServer-Project/plugin-blacklist-ip/1.0.1/img/ico-blacklist-ip.svg",
+			"download_url": "https://github.com/TorrServer-Project/plugin-blacklist-ip/releases/download/1.0.1/blacklist-ip-v1.0.1.zip",
+			"size": 19973,
+			"sha256": "5c80e42efae2c32d13ec8f87bd1debb2300334bd8841f2f665756553842aae63",
+			"homepage": "https://github.com/TorrServer-Project/plugin-blacklist-ip"
+		}
+	]
+}
